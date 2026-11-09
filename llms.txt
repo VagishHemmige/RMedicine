@@ -1,0 +1,31 @@
+# RMedicine
+
+The goal of RMedicine is to …
+
+## Installation
+
+You can install the development version of RMedicine like so:
+
+``` r
+
+# FILL THIS IN! HOW CAN PEOPLE INSTALL YOUR DEV PACKAGE?
+```
+
+## Example
+
+This is a basic example which shows you how to solve a common problem:
+
+``` r
+
+library(RMedicine)
+## basic example code
+```
+
+# Package index
+
+## All functions
+
+- [`print_hello_rmedicine()`](print_hello_rmedicine.md) : Print hello
+  R/Medicine
+- [`print_hello_world()`](print_hello_world.md) : Print hello world
+
